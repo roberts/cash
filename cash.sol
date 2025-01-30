@@ -1,6 +1,12 @@
 /**
  *
  *
+   https://CashAppETH.com
+   https://t.me/CashAppETH
+   https://x.com/CashAppETH
+
+   $CASH App Surprises on mainnet ETH
+
    Contract features:
    100,000,000 tokens
    3% buy tax in ETH sent to community, marketing & developer
