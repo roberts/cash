@@ -1211,7 +1211,7 @@ contract Cash is ERC20, Ownable {
 
         swapTokenAmount = totalSupply / 2000; // 0.05% of total supply (50,000 tokens)
 
-        restrictMaxTransaction = totalSupply / 500; // 0.2% of total supply (200,000 tokens)
+        restrictMaxTransaction = totalSupply / 200; // 0.5% of total supply (500,000 tokens)
         restrictMaxWallet = totalSupply / 20; // 5% of total supply (5,000,000 tokens)
 
         communityTax = 1;
