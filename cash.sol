@@ -1228,8 +1228,8 @@ contract Cash is ERC20, Ownable {
             marketingLopsidedSellTax +
             developerLopsidedSellTax;
 
-        communityWallet = address(0x903ECB20fe5D6f1eeEE362e19e8a0c91d246bb20); // Community Funds
-        marketingWallet = address(0x9C9A2A29044d1B63aBE37Bc2BbE795CD3abb21E1); // Marketing Funds
+        communityWallet = address(0x6aa2DF9Efe5335780c12DE4C5d88565B8Faa83d5); // Community Funds
+        marketingWallet = address(0xf599243E088Be9e3DfBCD70328733E03C3c46337); // Marketing Funds
         developerWallet = address(0xDEB333a3240eb2e1cA45D38654c26a8C1AAd0507); // Developer Funds
 
         _mint(address(this), totalSupply);
